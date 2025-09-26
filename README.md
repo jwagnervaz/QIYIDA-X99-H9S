@@ -1,4 +1,4 @@
-New 152 With Bootsecure Port and TPM2 fix.
+9New 152 With Bootsecure Port and TPM2 fix.
 
 
 1 - Bootsecure
@@ -44,3 +44,7 @@ New 1.52V With Bootsecure Port and TPM2 fix.
 
 For C612 chipset only.
 # QIYIDA-X99-H9S
+
+
+Donate list:
+@jhgamer880
